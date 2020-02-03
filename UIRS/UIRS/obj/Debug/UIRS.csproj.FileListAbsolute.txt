@@ -1,0 +1,9 @@
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\bin\Debug\UIRS.exe.config
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\bin\Debug\UIRS.exe
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\bin\Debug\UIRS.pdb
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\obj\Debug\UIRS.csprojResolveAssemblyReference.cache
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\obj\Debug\UIRS.Form1.resources
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\obj\Debug\UIRS.Properties.Resources.resources
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\obj\Debug\UIRS.csproj.GenerateResource.Cache
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\obj\Debug\UIRS.exe
+C:\Users\5RY\Desktop\УИРС\UIRS\UIRS\obj\Debug\UIRS.pdb
